@@ -57,12 +57,12 @@
     "unsaved_changes_message": "你有未儲存的變更，離開後將遺失這些變更。確定要離開嗎？"
   },
   "title": {
-    "main": "CLI Proxy API Management Center",
-    "login": "CLI Proxy API Management Center",
-    "abbr": "CPAMC"
+    "main": "CoinCoin Management Center",
+    "login": "CoinCoin Management Center",
+    "abbr": "CoinCoin"
   },
   "splash": {
-    "title": "CLI Proxy API",
+    "title": "CoinCoin",
     "subtitle": "管理中心"
   },
   "auto_login": {
@@ -121,7 +121,7 @@
   },
   "dashboard": {
     "title": "儀表板",
-    "subtitle": "歡迎使用 CLI Proxy API 管理中心",
+    "subtitle": "歡迎使用 CoinCoin 管理中心",
     "openai_providers": "OpenAI 供應商",
     "quick_actions": "快速操作",
     "current_config": "目前設定",
@@ -1252,7 +1252,7 @@
   },
   "system_info": {
     "title": "管理中心資訊",
-    "about_title": "CLI Proxy API Management Center",
+    "about_title": "CoinCoin Management Center",
     "connection_status_title": "連線狀態",
     "api_status_label": "API 狀態:",
     "config_status_label": "設定狀態:",

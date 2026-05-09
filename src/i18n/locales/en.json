@@ -57,12 +57,12 @@
     "unsaved_changes_message": "You have unsaved changes. Leaving now will discard them. Do you want to leave?"
   },
   "title": {
-    "main": "CLI Proxy API Management Center",
-    "login": "CLI Proxy API Management Center",
-    "abbr": "CPAMC"
+    "main": "CoinCoin Management Center",
+    "login": "CoinCoin Management Center",
+    "abbr": "CoinCoin"
   },
   "splash": {
-    "title": "CLI Proxy API",
+    "title": "CoinCoin",
     "subtitle": "Management Center"
   },
   "auto_login": {
@@ -121,7 +121,7 @@
   },
   "dashboard": {
     "title": "Dashboard",
-    "subtitle": "Welcome to CLI Proxy API Management Center",
+    "subtitle": "Welcome to CoinCoin Management Center",
     "openai_providers": "OpenAI Providers",
     "quick_actions": "Quick Actions",
     "current_config": "Current Configuration",
@@ -1226,7 +1226,7 @@
   },
   "system_info": {
     "title": "Management Center Info",
-    "about_title": "CLI Proxy API Management Center",
+    "about_title": "CoinCoin Management Center",
     "connection_status_title": "Connection Status",
     "api_status_label": "API Status:",
     "config_status_label": "Config Status:",
